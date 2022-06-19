@@ -88,7 +88,7 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #51557E;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #51557E;
 		line-height: 1.5em;
 	}
 
@@ -148,7 +148,7 @@ input, select, textarea {
 
 		header > p {
 			margin: 1em 0 0 0;
-			color: #363434;
+			color: #fff;
 		}
 
 	footer {
@@ -156,7 +156,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 450;
 		color: #666;
 	}
 
@@ -2170,7 +2170,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #A0D995;
 					}
 
 /* Footer */
@@ -2224,11 +2224,11 @@ input, select, textarea {
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: #363434;
+					color: #ffff;
 				}
 
 				#main > section.dark strong {
-					color: #363434;
+					color: #fff;
 					border-color: inherit;
 				}
 
@@ -2248,8 +2248,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/intro.jpg");
+				background-color: #94B49F;
+				background-image:;
 			}
 
 			#main > section.two {
@@ -2257,11 +2257,12 @@ input, select, textarea {
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #D3EBCD;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #fff;
+				text-align: left;
 			}
 
 /* Wide */
