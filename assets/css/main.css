@@ -1768,7 +1768,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 50%;
 		}
 
 		.image.featured {
@@ -1981,7 +1981,7 @@ input, select, textarea {
 /* Item */
 
 	.item {
-		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+		/* box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);*/
 		margin-bottom: 40px;
 	}
 
@@ -2253,7 +2253,7 @@ input, select, textarea {
 			}
 
 			#main > section.two {
-				background-color: #f9f9f9;
+				background-color: #ffffff;
 			}
 
 			#main > section.three {
